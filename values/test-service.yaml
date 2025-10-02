@@ -1,0 +1,8 @@
+name: test-service
+# secrets:
+#   - name: common-secret
+#     key: postgres-user
+#     env: DATABASE_USER
+#   - name: common-secret
+#     key: postgres-password
+#     env: DATABASE_PASSWORD
